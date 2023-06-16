@@ -1,0 +1,2 @@
+FROM httpd:bullseye
+CMD ["httpd-foreground"]

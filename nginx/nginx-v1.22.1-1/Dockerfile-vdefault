@@ -1,0 +1,2 @@
+FROM nginx:stable-perl
+CMD ["nginx" "-g" "daemon off;"]
